@@ -1,0 +1,38 @@
+{
+  "name": "StrayNotes",
+  "identifier": "it.straynotes.source",
+  "apps": [
+    {
+      "name": "StrayNotes",
+      "bundleIdentifier": "it.straynotes.app",
+      "developerName": "Tommaso",
+      "subtitle": "Il taccuino dei gatti di quartiere",
+      "localizedDescription": "Fotografa i gatti che incontri: StrayNotes li ritaglia e ne fa una stampa d'arte, li segna sulla mappa e tiene il diario dei vostri incontri.",
+      "iconURL": "https://raw.githubusercontent.com/Fugazzina/StrayNotes-builds/ios/icona.png",
+      "tintColor": "#2E2A5C",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.0.121",
+          "buildVersion": "121",
+          "date": "2026-10-15",
+          "localizedDescription": "1.0.121 · Tre musiche nuove da sbloccare con i timbri\n\n1.0.120 · Pronta per il Play Store\n- Preparato tutto per pubblicare StrayNotes sul Play Store (nessuna novità visibile nell'app)\n\n1.0.119 · Rarità scritta nella griglia dell'album\n- Nella vista a griglia dell'album la rarità di ogni gatto è scritta sotto il nome, al posto del pallino colorato\n\n1.0.118 · Ritratti a grana fine\n- Tutti i ritratti sono stampati con la grana fine, niente più retino a puntini grossi\n- Il colore sopra il gatto è sparso a granelli fini, nello stesso colore del contorno\n\n1.0.117 · Ritratti con i puntini colorati\n- Il contorno dei ritratti torna sottile, come una linea stampata\n- Sopra il gatto c'è un retino di puntini colorati, nello stesso colore del contorno, come una vera risografia\n- I colori del pelo e il dettaglio restano quelli della versione precedente\n\n1.0.116 · Album in tre viste e nuovi sfondi a tutto schermo\n- L'album si può guardare in tre modi: medaglioni come prima, a griglia (tre gatti per riga) o a lista (con manto, luogo, rarità e incontri); l'app ricorda la scelta\n- Crea il tuo sfondo ha nuovi formati: a tutto schermo, con la foto vera del gatto (a colori o in bicromia, con un timbro postale del giorno e del luogo) e a poster\n- Al posto del cielo si può scegliere un motivo: zampette, pois, stelline o lische\n- Nuova opzione \"Spazio per l'orologio\": l'ora della schermata di blocco non copre il gatto\n\n1.0.115 · Ritratti nei colori del gatto e un dado per il nome\n- I ritratti tengono i colori veri del gatto: i rossi restano arancio con le strisce marroni, i tigrati color oro, i tartarugati e i calicò arancio e nero\n- I gatti grigi, neri e bianchi non escono più rosa, viola o verdi: hanno toni grigio-blu, grigio-viola o grigio-petrolio, ogni gatto il suo\n- Il nero resta scuro e il bianco resta chiaro\n- Il colore vivace va sul contorno, più spesso, e sul terreno\n- Più dettaglio nel pelo: strisce e muso si vedono meglio, con puntini più fini\n- Nella scheda nuova, un dado accanto al nome propone un altro nome a caso\n\n1.0.114 · Pallini gialli che se ne vanno e Tre paesaggi subito\n- I timbri perdono il pallino giallo appena li apri (prima Zampe d’oro lo teneva per sempre)\n- Le icone sbloccate in Aspetto mostrano il pallino la prima volta che le vedi, poi sparisce anche senza impostarle\n- Il timbro Tre paesaggi (mare, montagna, città) arriva pochi secondi dopo aver salvato il gatto, non più dopo minuti\n- Se il servizio che riconosce mare e città è occupato, l’app prova un secondo server\n\n1.0.113 · Musiche da sbloccare sempre in vista\n- Suoni e musica: la scelta del brano c'è sempre, con le musiche ancora chiuse e il timbro che le sblocca\n- Timbri: Collezionista e Collezione di sfondi si completano prima (25 gatti e 10 sfondi per l'ultimo livello)\n- iPhone: le prestazioni automatiche partono dal livello più alto\n\n1.0.112 · Prestazioni: l'app si adatta al telefono\n- Impostazioni › Aspetto › Prestazioni: Automatico, Alte, Medie o Basse, per avere meno scatti sui ",
+          "downloadURL": "https://raw.githubusercontent.com/Fugazzina/StrayNotes-builds/ios/StrayNotes.ipa",
+          "size": 85380754,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "StrayNotes usa la fotocamera per fotografare i gatti che incontri. Le foto restano sul telefono.",
+          "NSLocationWhenInUseUsageDescription": "StrayNotes usa la posizione per segnare dove hai incontrato un gatto e per il cielo e il meteo della tua zona.",
+          "NSPhotoLibraryUsageDescription": "Per scegliere dalla tua libreria la foto di un gatto.",
+          "NSPhotoLibraryAddUsageDescription": "Per salvare nelle tue foto i ritratti e gli sfondi."
+        }
+      }
+    }
+  ],
+  "news": [],
+  "iconURL": "https://raw.githubusercontent.com/Fugazzina/StrayNotes-builds/ios/icona.png"
+}
