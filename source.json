@@ -1,0 +1,38 @@
+{
+  "name": "StrayNotes Test",
+  "identifier": "it.straynotes.test.source",
+  "apps": [
+    {
+      "name": "StrayNotes Test",
+      "bundleIdentifier": "it.straynotes.app.test",
+      "developerName": "Tommaso",
+      "subtitle": "La versione di prova di StrayNotes",
+      "localizedDescription": "Fotografa i gatti che incontri: StrayNotes li ritaglia e ne fa una stampa d'arte, li segna sulla mappa e tiene il diario dei vostri incontri. Questa è la versione di prova: si installa accanto a quella normale, con i suoi dati.",
+      "iconURL": "https://raw.githubusercontent.com/Fugazzina/StrayNotes-builds/ios-test/icona.png",
+      "tintColor": "#2E2A5C",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.0.129",
+          "buildVersion": "129",
+          "date": "2026-10-26",
+          "localizedDescription": "1.0.129 · Salvataggi più sicuri e album più leggero\n- Il taccuino protegge i dati quando non riesce a leggerli e avvisa se un salvataggio fallisce\n- I backup si fermano se una foto non è leggibile e il diario conserva anche le note lunghe\n- L’album usa miniature anche dopo il riavvio e salva meno durante la consultazione\n- I ritratti funzionano anche se il modello di riserva non riesce a caricarsi\n\n1.0.128 · Prestazioni automatiche più attente sui telefoni lenti\n- Il livello automatico delle prestazioni si accorge dei rallentamenti in tutta l'app, non solo nel mirino, e si abbassa subito\n- Sui telefoni con poca memoria parte già da Medie\n- Sui telefoni lenti l'app disegna meno effetti pesanti e prepara le cose con più calma all'avvio\n- Il diario si apre più in fretta",
+          "downloadURL": "https://raw.githubusercontent.com/Fugazzina/StrayNotes-builds/ios-test/StrayNotes.ipa",
+          "size": 85288404,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "StrayNotes usa la fotocamera per fotografare i gatti che incontri. Le foto restano sul telefono.",
+          "NSLocationWhenInUseUsageDescription": "StrayNotes usa la posizione per segnare dove hai incontrato un gatto e per il cielo e il meteo della tua zona.",
+          "NSPhotoLibraryUsageDescription": "Per scegliere dalla tua libreria la foto di un gatto.",
+          "NSPhotoLibraryAddUsageDescription": "Per salvare nelle tue foto i ritratti e gli sfondi."
+        }
+      }
+    }
+  ],
+  "news": [],
+  "iconURL": "https://raw.githubusercontent.com/Fugazzina/StrayNotes-builds/ios-test/icona.png"
+}
